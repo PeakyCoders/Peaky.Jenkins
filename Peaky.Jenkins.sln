@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29318.209
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Peaky.Jenkins.Client", "Peaky.Jenkins.Client\Peaky.Jenkins.Client.csproj", "{CD9151D2-9BF2-4E55-BDE0-223D424CE38A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Peaky.Jenkins.Models", "Peaky.Jenkins.Models\Peaky.Jenkins.Models.csproj", "{450DB087-48CA-42FC-BB17-A5B4EBDE7644}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Peaky.Jenkins.Client.Console", "Peaky.Jenkins.Client.Console\Peaky.Jenkins.Client.Console.csproj", "{B9AE9EDB-DE5E-4FF9-AADF-08FCED30A579}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CD9151D2-9BF2-4E55-BDE0-223D424CE38A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD9151D2-9BF2-4E55-BDE0-223D424CE38A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD9151D2-9BF2-4E55-BDE0-223D424CE38A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD9151D2-9BF2-4E55-BDE0-223D424CE38A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{450DB087-48CA-42FC-BB17-A5B4EBDE7644}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{450DB087-48CA-42FC-BB17-A5B4EBDE7644}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{450DB087-48CA-42FC-BB17-A5B4EBDE7644}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{450DB087-48CA-42FC-BB17-A5B4EBDE7644}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9AE9EDB-DE5E-4FF9-AADF-08FCED30A579}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9AE9EDB-DE5E-4FF9-AADF-08FCED30A579}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9AE9EDB-DE5E-4FF9-AADF-08FCED30A579}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9AE9EDB-DE5E-4FF9-AADF-08FCED30A579}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EAAD721A-07D0-48D4-851F-9402FDC36DB6}
+	EndGlobalSection
+EndGlobal
