@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace Peaky.Jenkins.Client
+﻿namespace Peaky.Jenkins.Client
 {
     public class JenkinsConfiguration
     {
@@ -11,5 +7,7 @@ namespace Peaky.Jenkins.Client
         public string Username { get; set; }
 
         public string Token { get; set; }
+
+        public bool UseCrumb { get; set; } = false;
     }
 }
